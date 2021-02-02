@@ -6,11 +6,11 @@
     "image": "",
     "email": "minxkow@gmail.com",
     "phone": "(732) 882-2821",
-    "url": "http://richardhendricks.example.com",
+    "url": "https://kmx8.github.io",
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "NJ 07724",
+      "postalCode": "07724",
       "city": "Eatontown",
       "countryCode": "US",
       "region": "New Jersey"
@@ -43,8 +43,9 @@
       "startDate": "2019-12",
       "summary": "Bridge house advisors is a team of ESG specialists who work to improve ESG in companies.",
       "highlights": [
-        "Managed SQL data",
-        "Created dashboards in Tableau to represent data"
+	  	"Created reports for multiple clients at an Ad-hoc basis",
+        "Managed and maintained data in SQL server for multiple clients",
+        "Created dashboards in Tableau to visualize data"
       ]
     }
   ],
@@ -148,7 +149,7 @@
       "name": "Fungal Growth Sensor",
       "description": "Sensor collected temperature and humidity to track VPD, which is an important factor in fungal growth and spread of diseases.",
       "highlights": [
-        "Top 5% of capstone project Metrics",
+        "Top 5% of capstone by project metrics",
         "Sensor was placed in Actor's Fund Nursing home during the COVID Pandemic",
         "Using python and custom sensor built from Raspberry Pi"
       ],
