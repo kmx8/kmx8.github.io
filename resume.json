@@ -1,0 +1,169 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Min Kow",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "minxkow@gmail.com",
+    "phone": "(732) 882-2821",
+    "url": "http://richardhendricks.example.com",
+    "summary": "",
+    "location": {
+      "address": "338 Crawford St",
+      "postalCode": "NJ 07724",
+      "city": "Eatontown",
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Min Kow",
+        "url": "https://www.linkedin.com/in/min-kow/"
+      },
+      {
+        "network": "Spotify",
+        "username": "theasianone",
+        "url": "https://open.spotify.com/user/theasianone?si=s5aKRJaaSxu7ModgDmIEcg"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Bridge House Advisors",
+      "location": "Chicago, IL",
+      "description": "ESG Specialists",
+      "position": "Intern",
+      "url": "https://www.bridgehouseadvisors.com/",
+      "startDate": "2019-12",
+      "summary": "Bridge house advisors is a team of ESG specialists who work to improve ESG in companies.",
+      "highlights": [
+        "Managed SQL data",
+        "Created dashboards in Tableau to represent data"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Association for Computing Machinery",
+      "position": "Tutor",
+      "url": "https://njit.acm.org/",
+      "startDate": "2016-09-07",
+      "endDate": "2018-12-15",
+      "summary": "Helped students with their programming assignments in Python and Java"
+    }
+  ],
+  "education": [
+    {
+      "institution": "New Jersey Institute of Technology",
+      "url": "https://www.njit.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2015-09",
+      "endDate": "2020-12",
+      "courses": [
+        "CS435 - Advanced Data Structures and Algorithms",
+        "CS491 - Senior Capstone Project",
+        "CS288 - Intensive Programming in Linux"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Junior",
+      "keywords": [
+        "Python",
+        "C++"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "Terminal",
+        "Git",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": [
+        "Bash",
+        "zsh"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Exercise",
+      "keywords": [
+        "Powerlifting",
+        "Hiking",
+        "Ultimate Frisbee"
+      ]
+    },
+    {
+      "name": "Videogames",
+      "Keywords": [
+        "Super Smash Brothers Melee"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jacques Ohayon",
+      "reference": ""
+    },
+    {
+      "name": "Dr. Eljabiri",
+      "reference": "The student did not only attend all of the required training meetings but many of the optional ones. Min’s willingness to learn was also one of their unique qualifications. Leading their team with passion and incredible commitment, Min delivered all of the required deliverables outstandingly on time, on budget, and target."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fungal Growth Sensor",
+      "description": "Sensor collected temperature and humidity to track VPD, which is an important factor in fungal growth and spread of diseases.",
+      "highlights": [
+        "Top 5% of capstone project Metrics",
+        "Sensor was placed in Actor's Fund Nursing home during the COVID Pandemic",
+        "Using python and custom sensor built from Raspberry Pi"
+      ],
+      "keywords": [
+        "Python",
+        "Linux",
+        "SQL"
+      ],
+      "startDate": "2020-02",
+      "endDate": "2021-01",
+      "roles": [
+        "Lead Developer",
+        "Designer"
+      ],
+      "entity": "Visual Intelligence LLC",
+      "type": "Medical Service"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
