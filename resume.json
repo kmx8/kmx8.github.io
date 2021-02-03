@@ -43,7 +43,7 @@
       "startDate": "2019-12",
       "summary": "Bridge house advisors is a team of ESG specialists who work to improve ESG in companies.",
       "highlights": [
-	  	"Created reports for multiple clients at an Ad-hoc basis",
+        "Created reports for multiple clients at an Ad-hoc basis",
         "Managed and maintained data in SQL server for multiple clients",
         "Created dashboards in Tableau to visualize data"
       ]
@@ -149,9 +149,9 @@
       "name": "Fungal Growth Sensor",
       "description": "Sensor collected temperature and humidity to track VPD, which is an important factor in fungal growth and spread of diseases.",
       "highlights": [
-        "Top 5% of capstone by project metrics",
-        "Sensor was placed in Actor's Fund Nursing home during the COVID Pandemic",
-        "Using python and custom sensor built from Raspberry Pi"
+        "Top 5% of projects by capstone metrics",
+        "Sensor was used in monitoring the Actor's Fund nursing home during the COVID Pandemic",
+        "Using Python and custom sensor built from Raspberry Pi"
       ],
       "keywords": [
         "Python",
