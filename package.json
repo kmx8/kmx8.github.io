@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmx8/kmx8.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmx8/kmx8.github.io/issues"
+  },
+  "homepage": "https://github.com/kmx8/kmx8.github.io#readme",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.14.0"
+  }
+}
